@@ -2,8 +2,8 @@
 --
 -- main.lua
 --
--- Created by: Mr. Coxall
--- Created on: Jan 2018
+-- Created by: Ethan Bellem
+-- Created on: March 2018
 -- 
 -- This file makes an object scroll across the screen
 -----------------------------------------------------------------------------------------
